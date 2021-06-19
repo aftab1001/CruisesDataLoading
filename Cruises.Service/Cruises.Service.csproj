@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>OA.Service</AssemblyName>
+    <PackageId>OA.Service</PackageId>
+    <NetStandardImplicitPackageVersion>1.6.0</NetStandardImplicitPackageVersion>
+   <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cruises.Backend.Data.Modal\Cruises.Backend.Data.Modal.csproj" />
+    <ProjectReference Include="..\Cruises.Data\Cruises.Data.csproj" />
+    <ProjectReference Include="..\Cruises.Repo\Cruises.Repo.csproj" />
+  </ItemGroup>
+
+</Project>

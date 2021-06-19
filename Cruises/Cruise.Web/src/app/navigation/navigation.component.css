@@ -1,0 +1,56 @@
+.salesunitnav-container {
+  min-height: 80%;
+  margin: 0px;
+}
+.mat-toolbar-row{
+  color: #2779ff;
+  border-bottom: 2px solid #2779ff;
+  background: #fff;
+}
+.mat-toolbar-row-bottom{
+  border: unset;
+  background: #2779ffd4;
+  color: #Fff;
+}
+.headerimage
+{
+  height: 25px;
+  margin-left: 4px;
+  margin-top: 9px;
+}
+.headerbutton
+{
+  color: #2779ff;
+}
+.sidenav
+{
+  transform: none;
+  visibility: visible;
+  color: white;
+  background: #fff;
+  width: 138px;
+  border:1px solid #2779ff;
+  border-top:unset;
+  box-shadow: 1px 1px 3px 1px #ddd;
+  border-bottom: unset;
+}
+.md-blue-color{
+  color: #2779ff;
+  background: #f1f1f1;
+}
+.headertext
+{
+  width: 100%;
+  text-align: center;
+}
+
+.md-font-size {
+  font-size: 14px;
+  top: 5px;
+  position: relative;
+}
+.headericon
+{
+  vertical-align: text-top;
+  
+}

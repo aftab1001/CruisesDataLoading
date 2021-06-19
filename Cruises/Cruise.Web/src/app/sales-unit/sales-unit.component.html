@@ -1,0 +1,27 @@
+<div>
+    <mat-form-field class="mg-lft-zf mg-rgt-of mg-top-of width30" >
+        <input matInput [matDatepicker]="picker" placeholder="Choose Start Date"  [(ngModel)]="salesUnitModal.start_date"
+               (dateChange)="startDateChange($event)">
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+      </mat-form-field>
+      <mat-form-field class="mg-rgt-of mg-top-of width30">
+          <input matInput [matDatepicker]="picker2" placeholder="Choose End Date"  [(ngModel)]="salesUnitModal.end_date"
+                 (dateChange)="endDateChange($event)">
+          <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+          <mat-datepicker #picker2></mat-datepicker>
+        </mat-form-field>
+        <mat-icon title="Search" style="cursor:pointer;" (click)="getSalesUnitDetail()">search</mat-icon>
+
+  <div>
+  <ag-grid-angular 
+  style="height:400px" 
+  class="ag-theme-blue ag-custom"
+  [rowData]="rowData" 
+  [gridOptions]="gridOptions"
+  [columnDefs]="columnDefs"
+  (gridReady)="onGridReady($event)"
+  (rowClicked)="showBookingDetail($event)">
+</ag-grid-angular>
+</div>
+</div>

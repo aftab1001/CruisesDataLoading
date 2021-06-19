@@ -1,0 +1,9 @@
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\bin\Debug\netstandard2.0\Cruises.Backend.Data.Modal.deps.json
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\bin\Debug\netstandard2.0\Cruises.Backend.Data.Modal.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\bin\Debug\netstandard2.0\Cruises.Backend.Data.Modal.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.csprojAssemblyReference.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.csproj.CoreCompileInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.AssemblyInfoInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.AssemblyInfo.cs
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Backend.Data.Modal\obj\Debug\netstandard2.0\Cruises.Backend.Data.Modal.pdb

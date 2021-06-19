@@ -1,0 +1,15 @@
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Service.deps.json
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Service.dll
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Service.pdb
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Data.dll
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Repo.dll
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Data.pdb
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\OA.Repo.pdb
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.csprojAssemblyReference.cache
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.csproj.CoreCompileInputs.cache
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.AssemblyInfoInputs.cache
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.AssemblyInfo.cs
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.csproj.CopyComplete
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.dll
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\obj\Debug\netcoreapp2.2\OA.Service.pdb
+D:\Personal\Test\Onion Architecture In ASP.NET Core MVC\C#\OA.Service\bin\Debug\netcoreapp2.2\TrialDayData.json

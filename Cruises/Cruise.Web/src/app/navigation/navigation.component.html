@@ -1,0 +1,30 @@
+<div style="height: 100%">
+<mat-toolbar color="warn">
+  <mat-toolbar-row>
+    <button class="headerbutton" type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()" color="primary">
+      <mat-icon clas='headericon' aria-label="Side nav toggle icon">menu</mat-icon>
+    </button>
+    <span><img class='headerimage' src="./assets/devglan.png"></span>
+    <span class="headertext">Cruise Application</span>
+
+  </mat-toolbar-row>
+</mat-toolbar>
+<mat-sidenav-container class="salesunitnav-container">
+  <mat-sidenav #drawer mode="side" opened role="navigation" class='sidenav'>
+    <mat-nav-list>
+      <a mat-list-item class="md-blue-color" routerLink='/saleunits'>Sales Unit</a>
+      <!-- <a mat-list-item routerLink='/second'>Second Component</a> -->
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+<mat-toolbar color="warn" >
+  <mat-toolbar-row class="mat-toolbar-row-bottom">
+    <span class="headertext md-font-size">© 2019 DreamLine Corporation</span>
+
+  </mat-toolbar-row>
+</mat-toolbar>
+</div>

@@ -1,0 +1,24 @@
+<h2 mat-dialog-title>{{modalTitle}}</h2>
+<mat-dialog-content>
+    <mat-form-field class="booking-full-width width30">
+        <input matInput placeholder="Type Booking-Id or Ship Name" #txtSearchText
+        [ngModel]='model' (ngModelChange)='changed($event)'>
+        <button mat-button matSuffix mat-icon-button aria-label="Clear">
+         <mat-icon title="Search" style="cursor:pointer;" (click)="getBookingsDetails(txtSearchText.value)">search</mat-icon>
+       </button>
+      </mat-form-field>
+        <ag-grid-angular  
+        style="height:560px;" 
+        class="ag-theme-blue ag-custom"
+        [rowData]="rowData" 
+        [gridOptions]="gridOptions"
+        [columnDefs]="columnDefs" >
+      </ag-grid-angular>
+
+
+</mat-dialog-content>
+
+<mat-dialog-actions clas="button-actions" style="float:right;">
+   
+ <button mat-button [mat-dialog-close]="true">Close</button>
+</mat-dialog-actions>

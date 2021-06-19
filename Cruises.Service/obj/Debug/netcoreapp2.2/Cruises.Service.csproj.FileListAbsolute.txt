@@ -1,0 +1,32 @@
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\TrialDayData.json
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.deps.json
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.pdb
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Repo.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Data.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Data.pdb
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Repo.pdb
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csprojAssemblyReference.cache
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csproj.CoreCompileInputs.cache
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.AssemblyInfoInputs.cache
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.AssemblyInfo.cs
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csproj.CopyComplete
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\OA.Service.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\OA.Service.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.deps.json
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Service.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Repo.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Data.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\OA.Data.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Repo.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csprojAssemblyReference.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csproj.CoreCompileInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.AssemblyInfoInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.AssemblyInfo.cs
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\Cruises.Service.csproj.CopyComplete
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\OA.Service.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\obj\Debug\netcoreapp2.2\OA.Service.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Backend.Data.Modal.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\Cruises.Backend.Data.Modal.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Service\bin\Debug\netcoreapp2.2\TrialDayData.json

@@ -1,0 +1,40 @@
+.ag-custom
+{
+margin-left: 6px;
+margin-top: -14px;
+margin-bottom: 4px;
+}
+.mat-icon
+{
+  vertical-align: text-top;
+  font-size: 21px !important;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .booking-full-width {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+
+  .mg-lft-zf {
+    margin-left: 0.5%; 
+  }
+  
+  .mg-rgt-of {
+    margin-right: 4%;
+  }
+
+  .mg-top-of{
+    margin-top: 1%;
+  }
+  .width30{
+    width: 30%;
+  }
+.red-snackbar {
+  background:red;
+}

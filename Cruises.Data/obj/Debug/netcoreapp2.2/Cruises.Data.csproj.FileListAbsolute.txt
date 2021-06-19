@@ -1,0 +1,21 @@
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.deps.json
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.runtimeconfig.json
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.runtimeconfig.dev.json
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.pdb
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.csproj.CoreCompileInputs.cache
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.AssemblyInfoInputs.cache
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.AssemblyInfo.cs
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\OA.Data.dll
+C:\Users\aurehman\Documents\Visual Studio 2017\Projects\Cruises\Cruises\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\OA.Data.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.deps.json
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.runtimeconfig.json
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.runtimeconfig.dev.json
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\bin\Debug\netcoreapp2.2\OA.Data.pdb
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.csprojAssemblyReference.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.csproj.CoreCompileInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.AssemblyInfoInputs.cache
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\Cruises.Data.AssemblyInfo.cs
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\OA.Data.dll
+D:\Personal\Aftab\Projects\V1\Cruises\Cruises.Data\obj\Debug\netcoreapp2.2\OA.Data.pdb
